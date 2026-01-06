@@ -1,6 +1,6 @@
-# pbit DOE runner
+# Parallel pbit DOE runner
 
-Design-of-experiments (DOE) and parameter optimization for p-bit based Ising/QUBO simulations.
+Design-of-experiments (DOE) and parameter optimization for parallel p-bit based Ising/QUBO simulations.
 The main entrypoint is `pbit_doe.py`.
 
 ## Requirements
