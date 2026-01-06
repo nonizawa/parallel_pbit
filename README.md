@@ -55,3 +55,5 @@ python3 pbit_doe.py --problem maxcut --maxcut-instance G14 --sampler tick --sche
 - `--optimize` enables random search / simulated annealing / evolutionary optimization.
 
 ## License
+
+This project is licensed under the MIT License. See `LICENSE`.
